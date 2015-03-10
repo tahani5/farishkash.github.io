@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://farishkash.github.io/blog/archives/</loc>
-    <lastmod>2015-02-24T16:37:10-08:00</lastmod>
+    <loc>http://farishkash.com/blog/2015/03/10/the-road-so-far-dot-dot-dot-and-a-little-story-about-imposter-syndrome/</loc>
+    <lastmod>2015-03-10T09:40:57-07:00</lastmod>
   </url>
   <url>
-    <loc>http://farishkash.github.io/</loc>
-    <lastmod>2015-02-24T16:37:10-08:00</lastmod>
+    <loc>http://farishkash.com/blog/archives/</loc>
+    <lastmod>2015-03-10T10:49:05-07:00</lastmod>
   </url>
   <url>
-    <loc>http://farishkash.github.io/about/</loc>
-    <lastmod>2015-02-24T16:37:10-08:00</lastmod>
+    <loc>http://farishkash.com/</loc>
+    <lastmod>2015-03-10T10:49:05-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://farishkash.com/about/</loc>
+    <lastmod>2015-03-10T10:49:05-07:00</lastmod>
   </url>
 </urlset>
